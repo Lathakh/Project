@@ -2,15 +2,14 @@
 
 # first initialize the git
 ''' 
-       git init
-'''  
+git init
+''' 
+
 '''
-      add filename.txt
-      add .     
+add filename.txt
 
+add .     
 '''  
-    
- ''' 
-      git commit -m "this is my first commit "
-
+''' 
+git commit -m "this is my first commit "
 '''
