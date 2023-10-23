@@ -3,11 +3,14 @@
 # first initialize the git
 ''' 
        git init
-  '''    
+'''  
+
       add filename.txt
-      add .      # entire folder
-    '''  
-    ''' 
+      add .     
+
+'''  
+    
+ ''' 
       git commit -m "this is my first commit "
 
-      '''
+'''
