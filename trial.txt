@@ -1,1 +1,5 @@
 happy learning
+
+activate env
+
+>> source activate ./evn
