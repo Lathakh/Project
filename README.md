@@ -15,3 +15,7 @@ git pull
 bash your_file_name.sh
 
 python setup.py install
+
+modular coding:
+ where we are defining task into seperate module 
+ i- python notebook(ipynb)
