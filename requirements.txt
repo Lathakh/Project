@@ -3,5 +3,5 @@ numpy
 scikit-learn
 seaborn
 ipykernel
-
--e . 
+Flask
+-e .
