@@ -15,6 +15,9 @@ https://github.com/Lathakh/Project
 
 2. you need to create your own repo on github and push this code to your github
 
+< after cloning my repo you will get .git folder also in your repo it might be hidden folder so first delete that .git folder and init your .git with this command git init then follow the further setup for pushing the code to your github repo>
+
+
 """
 3. here if i am performing ci/cd so this workflow is very imp
 so make sure you have .github/workflows/main.yaml
