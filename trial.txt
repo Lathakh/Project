@@ -3,3 +3,48 @@ happy learning
 activate env
 
 >> source activate ./evn
+
+1. you have to ready your code in your local
+
+https://github.com/Lathakh/Project
+
+1.1 you can clone this repo
+1.2 create a env 
+1.3 install requirements.txt
+1.4 then run app.py in your local env
+
+2. you need to create your own repo on github and push this code to your github
+
+"""
+3. here if i am performing ci/cd so this workflow is very imp
+so make sure you have .github/workflows/main.yaml
+
+4.and create the docker file since i am doing deployment in the form of docker image
+
+5. edit appy.py file write this app.run(host="0.0.0.0",port=8080)
+"""
+
+6. you need to signup or login to your aws account
+<you can signup with debit card as well>
+https://aws.amazon.com/console/
+
+7. you need to config three things
+7.1 you need to create i am user
+and here you need to give the adminacess
+you need to download key id and secret access key
+
+7.2 you need to create a ECR repo
+
+7.3 you have to config your app runner
+
+8 you need to add your variable into your github repo
+you need to add this variable as a secret  variable
+AWS_ACCESS_KEY_ID=""
+AWS_SECRET_ACCESS_KEY=""
+<you supposed to add this secret in your github repo here is path for adding the variable
+
+Settings/secret and variable/action/ secret and then click on the new repo secret>
+in the workflow check that you have mentioned correct ECR repo name
+and you need to check the ECR region as well and mention the correct region
+
+
