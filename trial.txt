@@ -47,4 +47,5 @@ Settings/secret and variable/action/ secret and then click on the new repo secre
 in the workflow check that you have mentioned correct ECR repo name
 and you need to check the ECR region as well and mention the correct region
 
-
+end point url
+https://x7yzj4hpsp.us-east-1.awsapprunner.com/predict
