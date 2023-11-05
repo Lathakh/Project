@@ -49,3 +49,6 @@ and you need to check the ECR region as well and mention the correct region
 
 end point url
 https://x7yzj4hpsp.us-east-1.awsapprunner.com/predict
+
+How to create a iam user
+<search IAM/ user/create user/ attached policy/ Administrator access/ download the secret keys>
